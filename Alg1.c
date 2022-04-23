@@ -7,7 +7,7 @@ void main(){
   int sizeB;
   int numOfTargets;
   scanf("%d %d %d", &sizeA, &sizeB, &numOfTargets);
-
+ //test
 
 
   int* a = (int *)malloc((sizeA+2) * sizeof(int));
